@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/LocatePlleXY" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
