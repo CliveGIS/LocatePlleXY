@@ -7,8 +7,8 @@ name=Localisation Plle et XY
 qgisMinimumVersion=3.0
 description=Plugin de recherche et localisation par coordonnées XY ou identifiant parcellaire (Nature, Numéro, Indice)
 version=0.1
-author=California29
-email=gabrieltorue@gmail.com
+author=Saad Fetah
+email=simo.clive@gmail.com
 
 about=Plugin de recherche et localisation par coordonnées XY ou identifiant parcellaire (Nature, Numéro, Indice)
 
