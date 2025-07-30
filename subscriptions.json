@@ -1,14 +1,12 @@
 {
-    "client4": {
-        "password": "test123",
-        "machine_id": "eeb4fb86fb9ca8f6",
-        "expiration": "2025-12-31",
-        "created": "2025-07-01"
-    },
-    "client2": {
-        "password": "test123",
-        "machine_id": "b4e8g2d9f1c7a5e3",
-        "expiration": "2024-11-30",
-        "created": "2025-07-15"
+    "machines": {
+        "eeb4fb86fb9ca8f6": {
+            "expiration": "2025-12-31",
+            "registered": "2025-07-01"
+        },
+        "b4e8g2d9f1c7a5e3": {
+            "expiration": "2024-11-30",
+            "registered": "2025-07-15"
+        }
     }
 }
