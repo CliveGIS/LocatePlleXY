@@ -182,7 +182,7 @@ class ExportDAT:
 
         with open(filepath, "w") as f:
             for titref, group in grouped.items():
-                group.sort(key=lambda feat: feat["ordre"])
+                group.sort(key=lambda feat: feat["ord"])
                 f.write(titref + "\n")
                 f.write("\n\n\n")
                 f.write(str(len(group)) + "\n")
