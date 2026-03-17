@@ -57,9 +57,9 @@ This plugin is licensed under the **GNU General Public License v2+**.
 
 ## 👤 Author
 
-**Saad Fetah**  
+**Gabriel Torue**  
 GIS Specialist (Morocco)  
-📧 simo.clive@gmail.com
+📧 Gabrieltorue@gmail.com
 
 ---
 
