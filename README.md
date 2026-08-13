@@ -55,13 +55,6 @@ This plugin is licensed under the **GNU General Public License v2+**.
 
 ---
 
-## 👤 Author
-
-**Gabriel Torue**  
-GIS Specialist (Morocco)  
-📧 Gabrieltorue@gmail.com
-
----
 
 ## 🌍 Language
 
